@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alphalyr-ysk9",
+  "private_key_id": "09fe3e51749d2aead1b6330e24808501c59b0949",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAqBDt/iXgWy42\nN5QX0s3CYHzJYN4wNNG9ODHcCt+J04XYKvKznO8NuL5zHE2lEiNJ3QiwV1yt+ttb\ngOEfrfVeHhpDl8HuhNAzAYmIRbqlk0QpvU5s/EWGPK7ew0u9Cr8vujiM67CT82Kw\nLYqqC8nq/B0mwCWtPcobpQZ3o/R92/5dRs4mqtxTANecnMS+/sK6otCAJgQP8zOB\nRUSlLZaDfiGrVk1jg6bkNpt0gzy9oPmFRcHKl21ShCYICEfpxcDRd1jU1EtHTb6o\nCV3ZaaxRYsQivxElUDq8wjfbum6dDO7DEnZ0R9Khc0YFuT8MnaQdJpELP3ZHmfqn\nqLOYffLnAgMBAAECggEAD6k54xbfXlsbKRYgiEU/K7drPXWN6k5I5IBecTxDCrGy\nti1bmGU/+5YSiUn6N9p/GuCIdclMQ+paDZiu9EPQZ+u7h9Yc0jZitFrCIt1EPHR5\nvIjiiLKDNlPVhU9L51ypyQfy0+XO72AAHEE/fe5CZkNDXWSOS4Rz2wZxvaUK2XY2\nGppdjlr3Usjgvqb8t1kRCVVBxCxev3fg+wvxoZIVzUKhrqi67RopVbKbQ9OY6YyY\nkMK2lbKxkDcEFUcGKeLuEwhGQosRPwYgzHYI4ba5OiRGbrhHuoN0xDrLu58fS+H8\nHoI238Xh9geeRZNK4E/DpRAy630m+dUC64bKs2V/8QKBgQDknQFzZUnavMRFzhu7\n/xYI/lX6n1MgFJ5AlRAQ/ooL9bHJ0Dv3Vg3B8aQYMN3AHUpH/bNHOcDsu3FuOP78\n5y3pGOwTVXyobJApEkZJ546La/OMUcBPiPXvM44T6ZpCWJ5CRliyQUO6oLHpPWfp\nQvtwffjsz94IVeqs4h+qcZWUMQKBgQDXvFspqLoWSRQbnrRieMDxjazQz+DzIEc1\nVbwf8t0jaqB/fDow3jJV4Lk+sktH24n76/0XPtKlQjVfpGiVhRlxOgFAH9J39pGs\nPMz7+oY/Go5y2WTk/MLkW7HlUDINatY6GTFZz8BHxXqK4S6MIUx6XQqcrb4BITu/\n0pJGYsuqlwKBgQDdqFl6wG+OVU5cfE2pxtdfmvJUUNxxE2ypI55zS8kfdXaPPYaW\n9unZ7Of0yJSJLB0UliiYW6fyIIAHpd2d6qw6AP8Mc+utBa31FJHwIEK2bdGzcKRs\nuVfzOGJ+bhYyU+gGTFy9YMhBkINPqUkyAs72MD4FpjoajOs/+vNG+GBWUQKBgElq\n2V9ZA1MYNZacsOieDZNm0nwRco1q27Dj52y7+tPVsp8QCMGerGSbYI9cn8/pf5DT\nI8NoZslEueM9kTXpINpukgRfkAGxUKvb2SqbfFo3UGj3YKWo+y45olXWr+HvDM6i\nyi+1SstiAi0HKw8XOe6egUEGw5Wg2LOUFqGLd6IrAoGBAIVHj24tkw4MoDnV1mDg\nFDJ1eRdZ8+jN8Z9sWjvrR00McP2W0vGKO4PALaOeOkTBI6WUBRaiBCXWiynuDedN\nH41EOuK/hAECHshx1sJ2AZdCbAdtH1qsS+EYA0bByw2pPMy7J2VAFaNqDYdQa0bL\ni2LozKi2/nDDKxa9cVjKHuVS\n-----END PRIVATE KEY-----\n",
+  "client_email": "alphalyr-chatbot@alphalyr-ysk9.iam.gserviceaccount.com",
+  "client_id": "101841843017826573344",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alphalyr-chatbot%40alphalyr-ysk9.iam.gserviceaccount.com"
+}

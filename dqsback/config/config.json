@@ -1,0 +1,6 @@
+{
+  "host": "db-mysql",
+  "user": "root",
+  "database": "dqsf",
+  "password": "root"
+}
